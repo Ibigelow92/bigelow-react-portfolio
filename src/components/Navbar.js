@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react'
 import { Link, useLocation } from 'react-router-dom';
 import "../styles/Navbar.css";
 
+
 function Navbar() {
     const [expandNavbar, setExpandNavbar] = useState(false);
 
