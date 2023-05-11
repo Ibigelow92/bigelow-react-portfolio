@@ -1,3 +1,43 @@
+# Description
+
+The purpose of this project was to get familiarized with using React to build a front-end application. 
+
+## Installation
+
+To install this application, first clone the repo to your device. Open the application in VS code and then open the integrated terminal. Run the commands `npm i` and `npm start`. Now you can view the application in the browser. 
+
+## Usage
+
+Use the Nav bar at the top of the window to view different pages of the portfolio. 
+
+## Credits
+
+This app was built with the help of instructor Alexander Kaufman and TA Anthony Quinones. The main React functionality was derived from the following video tutorial: https://www.youtube.com/watch?v=x7mwVn2z3Sk. 
+
+## License 
+
+MIT License
+
+Copyright (c) 2023 Ira Bigelow
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
