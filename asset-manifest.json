@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bigelow-react-portfolio/static/css/main.d57e4540.css",
+    "main.js": "/bigelow-react-portfolio/static/js/main.f40192f1.js",
+    "static/js/787.e29e1ebc.chunk.js": "/bigelow-react-portfolio/static/js/787.e29e1ebc.chunk.js",
+    "static/media/cold-steel-products-4-3.jpg": "/bigelow-react-portfolio/static/media/cold-steel-products-4-3.be63e485e503deb4070b.jpg",
+    "static/media/code-quiz-screenshot-4-3.jpg": "/bigelow-react-portfolio/static/media/code-quiz-screenshot-4-3.f52712d9e1d4131f0447.jpg",
+    "static/media/html-elements-screenshot-4-3.jpg": "/bigelow-react-portfolio/static/media/html-elements-screenshot-4-3.28ab020681f7b6793403.jpg",
+    "static/media/safe-travels-screenshot-4-3.jpg": "/bigelow-react-portfolio/static/media/safe-travels-screenshot-4-3.c3af93bc0044d15138be.jpg",
+    "static/media/jack-johnson-tribute-screenshot-4-3.jpg": "/bigelow-react-portfolio/static/media/jack-johnson-tribute-screenshot-4-3.2492178edd90d03932ca.jpg",
+    "static/media/patient-experience-screenshot-4-3.jpg": "/bigelow-react-portfolio/static/media/patient-experience-screenshot-4-3.5e8e31380578ac1d49f6.jpg",
+    "index.html": "/bigelow-react-portfolio/index.html",
+    "main.d57e4540.css.map": "/bigelow-react-portfolio/static/css/main.d57e4540.css.map",
+    "main.f40192f1.js.map": "/bigelow-react-portfolio/static/js/main.f40192f1.js.map",
+    "787.e29e1ebc.chunk.js.map": "/bigelow-react-portfolio/static/js/787.e29e1ebc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d57e4540.css",
+    "static/js/main.f40192f1.js"
+  ]
+}
