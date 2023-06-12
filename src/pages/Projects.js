@@ -6,6 +6,7 @@ import HTMLElements from "../assets/html-elements-screenshot-4-3.jpg";
 import JackJohnsonTribute from "../assets/jack-johnson-tribute-screenshot-4-3.jpg";
 import PatientExperienceSurvey from "../assets/patient-experience-screenshot-4-3.jpg";
 import SafeTravels from "../assets/safe-travels-screenshot-4-3.jpg";
+import MagicEatball from "../assets/magic-eatball.jpg";
 
 import "../styles/Projects.css";
 
@@ -20,6 +21,7 @@ function Projects() {
                 <ProjectItem name ="Jack Johnson Tribute Page" image ={JackJohnsonTribute} />
                 <ProjectItem name ="Patient Experience Survey Form" image ={PatientExperienceSurvey} />
                 <ProjectItem name="Crime Score API App" image={SafeTravels} />
+                <ProjectItem name="Magic Eatball" image={MagicEatball} />
             </div>
         </div>
     );
